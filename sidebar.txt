@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dux:home|Door43 (dux)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dux|d43-dux repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dux/archive/master.zip|d43-dux.zip]]
+
+**Recent Changes**
+{{changes>ns = dux}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dux|Ethnologue data]]
+
